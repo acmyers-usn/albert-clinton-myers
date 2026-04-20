@@ -34,8 +34,8 @@ As Commodore of Destroyer Squadron 22, Captain Myers commanded a multinational n
 - Legion of Merit (three awards)  
 
 ## Archival Sources
-- Internet Archive collection (link to be added)
-
+- ## Archival Sources
+- Internet Archive: https://archive.org/details/captain-albert-clinton-myers-archive-final-01-april-2026
 ---
 
 *This page is intended as a publicly accessible historical summary based on archival records and published sources.*
