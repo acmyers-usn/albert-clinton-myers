@@ -6,10 +6,6 @@ Test page – site under construction.
 ## Overview
 Captain Albert Clinton Myers, United States Navy (Retired), served as a career surface warfare officer with operational and command experience spanning the Cold War and post–Cold War period.
 
----
-
-## Overview
-Captain Albert Clinton Myers, United States Navy (Retired), served as a career surface warfare officer with operational and command experience spanning the Cold War and post–Cold War period.
 ## Education
 - B.S. Physics, Yale University (NROTC), 1970  
 - M.A. National Security Affairs, Naval Postgraduate School, 1982  
@@ -40,6 +36,7 @@ As Commodore of Destroyer Squadron 22, Captain Myers commanded a multinational n
 ## Archival Sources
 - ## Archival Sources
 - Internet Archive: https://archive.org/details/captain-albert-clinton-myers-archive-final-01-april-2026
----
+## Notes on Sources
+This summary is derived from publicly available records, including U.S. Navy documentation, published articles, and archival materials hosted by the Internet Archive.---
 
 *This page is intended as a publicly accessible historical summary based on archival records and published sources.*
