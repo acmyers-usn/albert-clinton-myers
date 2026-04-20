@@ -4,8 +4,12 @@ Test page – site under construction.
 # Captain Albert Clinton Myers, USN (Ret.)
 
 ## Overview
-Captain Albert Clinton Myers, United States Navy (Retired), served as a surface warfare officer with specialization in anti-submarine warfare and naval operations during the Cold War and post–Cold War period.
+Captain Albert Clinton Myers, United States Navy (Retired), served as a career surface warfare officer with operational and command experience spanning the Cold War and post–Cold War period.
 
+---
+
+## Overview
+Captain Albert Clinton Myers, United States Navy (Retired), served as a career surface warfare officer with operational and command experience spanning the Cold War and post–Cold War period.
 ## Education
 - B.S. Physics, Yale University (NROTC), 1970  
 - M.A. National Security Affairs, Naval Postgraduate School, 1982  
